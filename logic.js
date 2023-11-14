@@ -423,10 +423,6 @@ document.addEventListener("touchend", (e) => {
         setTwo();
       }
     }
-    if (canMoveRight) {
-      slideRight();
-      setTwo();
-    }
   } else if ((Math.abs(diffX) && Math.abs(diffY)) == 0) {
     return;
   } else {
