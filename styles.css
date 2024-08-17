@@ -1,17 +1,17 @@
 :root {
-  --background-image-url-02: url("./images/background_01.png");
-  --background-image-url-04: url("./images/background_02.png");
-  --background-image-url-08: url("./images/background_03.png");
-  --background-image-url-16: url("./images/background_04.png");
-  --background-image-url-32: url("./images/background_05.png");
-  --background-image-url-64: url("./images/background_06.png");
-  --background-image-url-128: url("./images/background_07.png");
-  --background-image-url-256: url("./images/background_08.png");
-  --background-image-url-512: url("./images/background_09.png");
-  --background-image-url-1024: url("./images/background_10.png");
-  --background-image-url-2048: url("./images/background_11.png");
-  --background-image-url-4096: url("./images/background_12.png");
-  --background-image-url-8192: url("./images/background_13.png");
+  --background-image-url-02: url("./images/image_2.png");
+  --background-image-url-04: url("./images/image_4.png");
+  --background-image-url-08: url("./images/image_8.png");
+  --background-image-url-16: url("./images/image_16.png");
+  --background-image-url-32: url("./images/image_32.png");
+  --background-image-url-64: url("./images/image_64.png");
+  --background-image-url-128: url("./images/image_128.png");
+  --background-image-url-256: url("./images/image_256.png");
+  --background-image-url-512: url("./images/image_512.png");
+  --background-image-url-1024: url("./images/image_1024.png");
+  --background-image-url-2048: url("./images/image_2048.png");
+  --background-image-url-4096: url("./images/image_4096.png");
+  --background-image-url-8192: url("./images/image_8192.png");
 }
 
 .container {
